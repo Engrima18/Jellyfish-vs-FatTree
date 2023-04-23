@@ -22,11 +22,14 @@ Finally, we implement from scratch the Jellyfish and Fat-tree topologies and com
 ## Simulation and parformance evaluation
 We evaluate the complexity, and thus the level of efficiency, of the methods listed above for studying the connectivity of a graph by considering two possible metrics.
 
-Running time             |  Bytes occupied in ram for execution
+Running time             |  Bytes occupied in RAM for execution
 :-------------------------:|:-------------------------:
 ![complex_comparis](https://user-images.githubusercontent.com/93355495/233846103-545c0c71-32fc-4e9f-8690-c9fd9c186d53.png) | ![complex_comparis2](https://user-images.githubusercontent.com/93355495/233846168-4f657c08-81a3-4d01-bbeb-f5c1206731cb.png)
 
-![ERgraph](https://user-images.githubusercontent.com/93355495/233846382-fd9ac907-f75f-46da-b338-7107a931b0fc.png)
+<p align=center>
+<img alt="ERgraph" src="https://user-images.githubusercontent.com/93355495/233846382-fd9ac907-f75f-46da-b338-7107a931b0fc.png">
+<\p>
+
 
 ![Rregular](https://user-images.githubusercontent.com/93355495/233846396-1f99dc80-00c5-46ae-8e40-4ada8d2c1e6e.png)
 
