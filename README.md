@@ -51,7 +51,7 @@ Then, let $p_c(G)$ denote the probability that a graph G is connected. By runnin
 <br />
 
 Consider that if the job is split into N parallel tasks, that are run over N servers, then:
->- each task takes a time $T_0 + X_i$, where $X_i \sim Exp( \lambda= \frac N {E[X]} , X r.V. for the baseline job running time
+>- each task takes a time $T_0 + X_i$, where $X_i \sim Exp( \lambda= \frac N {E[X]}$ , X r.V. for the baseline job running time
 >- each server receives an amount of input data $L_f /N$ ($L_f$: lenght of the baseline input file).
 >- amount of output data produced by each server is $L_{o,i} \sim Unif(0, 2L_o/N)$ ($L_o$: lenght of the baseline output file)
 >- Data is transferred to and from server i via a TCP connection between server A and server i, having average throughput given by: 
