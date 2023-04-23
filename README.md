@@ -10,3 +10,8 @@ Homework #1 for the course "Networking for Big Data and Data Centers" at La Sapi
 In the first part of the homework we define functions for creating the graph randomly by two techniques:
 >- r-regular graph;
 >- Erdòs-Rényi.
+
+We then implement several techniques to evaluate whether the created random graphs are connected:
+1. we varify the reachability of all nodes with an amplitude search algorithm;
+2. we verify that the Laplacian matrix associated with the graph has a null eigenvalue of multiplicity 1;
+3. we verify that the irreducibility of the adjacency matrix (A) associated with the graph by solving the following inequality
