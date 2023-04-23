@@ -12,6 +12,7 @@ In the first part of the homework we define functions for creating the graph ran
 >- Erdòs-Rényi.
 
 We then implement several techniques to evaluate whether the created random graphs are connected:
-1. we varify the reachability of all nodes with an amplitude search algorithm;
-2. we verify that the Laplacian matrix associated with the graph has a null eigenvalue of multiplicity 1;
-3. we verify that the irreducibility of the adjacency matrix (A) associated with the graph by solving the following inequality
+1. we varify the reachability of all nodes with a **breadth-first search** algorithm;
+2. we verify that the **Laplacian matrix** associated with the graph has a null eigenvalue of multiplicity 1;
+3. we verify that the **irreducibility** of the adjacency matrix (A) associated with the graph by solving the following inequality :
+$$I + A+ A^2+ ... + A^n > 0$$
