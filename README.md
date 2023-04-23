@@ -24,6 +24,10 @@ We evaluate the complexity, and thus the level of efficiency, of the methods lis
 >- running time;
 >- amount of bytes occupied in ram for the execution of the algorithm.
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![complex_comparis](https://user-images.githubusercontent.com/93355495/233846103-545c0c71-32fc-4e9f-8690-c9fd9c186d53.png) | ![complex_comparis2](https://user-images.githubusercontent.com/93355495/233846168-4f657c08-81a3-4d01-bbeb-f5c1206731cb.png)
+
 ## Used technologies:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
