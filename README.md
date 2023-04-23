@@ -28,10 +28,11 @@ Running time             |  Bytes occupied in RAM for execution
 
 <p align=center>
 <img alt="ERgraph" src="https://user-images.githubusercontent.com/93355495/233846382-fd9ac907-f75f-46da-b338-7107a931b0fc.png">
-<\p>
+</p>
 
-
-![Rregular](https://user-images.githubusercontent.com/93355495/233846396-1f99dc80-00c5-46ae-8e40-4ada8d2c1e6e.png)
+<p align=center>
+<img alt="Rregular" src="https://user-images.githubusercontent.com/93355495/233846396-1f99dc80-00c5-46ae-8e40-4ada8d2c1e6e.png">
+</p>
 
 <img width="1186" alt="TimeAndCost" src="https://user-images.githubusercontent.com/93355495/233846444-74aa318d-5e5e-47f4-b430-391366fcb6b2.png">
 
