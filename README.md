@@ -16,3 +16,10 @@ We then implement several techniques to evaluate whether the created random grap
 2. we verify that the **Laplacian matrix** associated with the graph has a null eigenvalue of multiplicity 1;
 3. we verify that the **irreducibility** of the adjacency matrix (A) associated with the graph by solving the following inequality :
 $$I + A+ A^2+ ... + A^n > 0$$
+
+Finally, we implement from scratch the Jellyfish and Fat-tree topologies and compare their scalability performance.
+
+## Simulation and parformance evaluation
+We evaluate the complexity, and thus the level of efficiency, of the methods listed above for studying the connectivity of a graph by considering two possible metrics:
+>- running time;
+>- amount of bytes occupied in ram for the execution of the algorithm.
