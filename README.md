@@ -45,8 +45,9 @@ Consider that if the job is split into N parallel tasks, that are run over N ser
 >- each task takes a time $T_0 + X_i$, where $X_i \sim Exp( \lambda= \frac N {E[X]} , X r.V. for the baseline job running time
 >- each server receives an amount of input data $L_f /N$ ($L_f$: lenght of the baseline input file).
 >- amount of output data produced by each server is $L_{o,i} \sim Unif(0, 2L_o/N)$ ($L_o$: lenght of the baseline output file)
->- Data is transferred to and from server i via a TCP connection between server A and server i, having average throughput given by 
-$$\theta_i = C \cdot \frac {1/T_i} {\sum_j T_j}$$ where $T_i=2 \tau h_i$ is the RTT between the origin server A and server i, $h_i$ is the number of hops between server A and server i and C is the capacity of each link of the DC network.
+>- Data is transferred to and from server i via a TCP connection between server A and server i, having average throughput given by: 
+$$\theta_i = C \cdot \frac {1/T_i} {\sum_j T_j}$$
+where $T_i=2 \tau h_i$ is the RTT between the origin server A and server i, $h_i$ is the number of hops between server A and server i and C is the capacity of each link of the DC network.
 
 In the end we plot:
 
