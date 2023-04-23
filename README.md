@@ -25,14 +25,19 @@ We evaluate the complexity, and thus the level of efficiency, of the methods lis
 Running time             |  Bytes occupied in RAM for execution
 :-------------------------:|:-------------------------:
 ![complex_comparis](https://user-images.githubusercontent.com/93355495/233846103-545c0c71-32fc-4e9f-8690-c9fd9c186d53.png) | ![complex_comparis2](https://user-images.githubusercontent.com/93355495/233846168-4f657c08-81a3-4d01-bbeb-f5c1206731cb.png)
+<br />
 
+Then, let $p_c(G)$ denote the probability that a graph G is connected. By running Monte Carlo simulations, we estimate $p_c(G)$ and produce two curve plots:
+A. $p_c(G)$ vs. $p$ for Erdòs-Rényi graphs with K = 100 number of nodes.
 <p align=center>
 <img alt="ERgraph" src="https://user-images.githubusercontent.com/93355495/233846382-fd9ac907-f75f-46da-b338-7107a931b0fc.png">
 </p>
-
+B. $p_c(G)$ vs. $K$, for K ≤ 100, for r-regular random graphs with r = 2 and r = 8.
 <p align=center>
 <img alt="Rregular" src="https://user-images.githubusercontent.com/93355495/233846396-1f99dc80-00c5-46ae-8e40-4ada8d2c1e6e.png">
 </p>
+<br />
+
 
 <img width="1186" alt="TimeAndCost" src="https://user-images.githubusercontent.com/93355495/233846444-74aa318d-5e5e-47f4-b430-391366fcb6b2.png">
 
