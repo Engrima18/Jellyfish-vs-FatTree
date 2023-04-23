@@ -6,6 +6,15 @@ Homework #1 for the course "Networking for Big Data and Data Centers" at La Sapi
 >- `functions.py`: python script file which contains all the functions for building graphs, make simulations and evaluating performances;
 >- `topologies.py`: python module where we implemented the classes for the used topologies.
 
+## Used technologies:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
 ## Brief description
 In the first part of the homework we define functions for creating the graph randomly by two techniques:
 >- r-regular graph;
@@ -55,12 +64,3 @@ In the end we plot:
 >- the Job running cost $S$ as a function of $N$ for  $1 \leq N \leq 10000$ (normalize $S$ with respect to $S_baseline$).
 
 <img width="1186" alt="TimeAndCost" src="https://user-images.githubusercontent.com/93355495/233846444-74aa318d-5e5e-47f4-b430-391366fcb6b2.png">
-
-## Used technologies:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
