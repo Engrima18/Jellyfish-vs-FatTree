@@ -20,11 +20,9 @@ $$I + A+ A^2+ ... + A^n > 0$$
 Finally, we implement from scratch the Jellyfish and Fat-tree topologies and compare their scalability performance.
 
 ## Simulation and parformance evaluation
-We evaluate the complexity, and thus the level of efficiency, of the methods listed above for studying the connectivity of a graph by considering two possible metrics:
->- running time;
->- amount of bytes occupied in ram for the execution of the algorithm.
+We evaluate the complexity, and thus the level of efficiency, of the methods listed above for studying the connectivity of a graph by considering two possible metrics.
 
-Solarized dark             |  Solarized Ocean
+Running time             |  Bytes occupied in ram for execution
 :-------------------------:|:-------------------------:
 ![complex_comparis](https://user-images.githubusercontent.com/93355495/233846103-545c0c71-32fc-4e9f-8690-c9fd9c186d53.png) | ![complex_comparis2](https://user-images.githubusercontent.com/93355495/233846168-4f657c08-81a3-4d01-bbeb-f5c1206731cb.png)
 
