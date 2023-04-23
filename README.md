@@ -33,10 +33,12 @@ Then, let $p_c(G)$ denote the probability that a graph G is connected. By runnin
 <p align=center>
 <img alt="ERgraph" src="https://user-images.githubusercontent.com/93355495/233846382-fd9ac907-f75f-46da-b338-7107a931b0fc.png">
 </p>
+
 2. $p_c(G)$ vs. $K$, for K ≤ 100, for r-regular random graphs with r = 2 and r = 8.
 <p align=center>
 <img alt="Rregular" src="https://user-images.githubusercontent.com/93355495/233846396-1f99dc80-00c5-46ae-8e40-4ada8d2c1e6e.png">
 </p>
+
 <br />
 
 
