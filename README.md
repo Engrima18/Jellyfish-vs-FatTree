@@ -28,6 +28,7 @@ Running time             |  Bytes occupied in RAM for execution
 <br />
 
 Then, let $p_c(G)$ denote the probability that a graph G is connected. By running Monte Carlo simulations, we estimate $p_c(G)$ and produce two curve plots:
+
 A. $p_c(G)$ vs. $p$ for Erdòs-Rényi graphs with K = 100 number of nodes.
 <p align=center>
 <img alt="ERgraph" src="https://user-images.githubusercontent.com/93355495/233846382-fd9ac907-f75f-46da-b338-7107a931b0fc.png">
