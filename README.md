@@ -63,4 +63,5 @@ In the end we plot:
 >- the mean response time $E[R]$ as a function of $N$ for $1 \leq N \leq 10000$. Let $R_baseline$ be the response time in case only server A is used, we normalize w.r.t. $ E[R_baseline]$
 >- the Job running cost $S$ as a function of $N$ for  $1 \leq N \leq 10000$ (normalize $S$ with respect to $S_baseline$).
 
-<img width="1186" alt="TimeAndCost" src="https://user-images.githubusercontent.com/93355495/233846444-74aa318d-5e5e-47f4-b430-391366fcb6b2.png">
+<img width="1184" alt="TimeAndCost" src="https://user-images.githubusercontent.com/93355495/234045317-4b00ed8d-5831-43b8-80c3-39582a2ad325.png">
+
