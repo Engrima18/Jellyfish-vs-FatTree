@@ -4,7 +4,8 @@
 ## Content
 >- `main.py`: python script that calls the functions and the classes from the modules below and saves the resulting plots in images (png);
 >- `functions.py`: python script file which contains all the functions for building graphs, make simulations and evaluating performances;
->- `topologies.py`: python module where we implemented the classes for the used topologies.
+>- `topologies.py`: python module where we implemented the classes for the used topologies;
+>- `report.pdf`: pdf which contains a complete reports with our conclusions.
 
 ## Used technologies:
 
