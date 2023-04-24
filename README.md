@@ -28,6 +28,14 @@ $$I + A+ A^2+ ... + A^n > 0$$
 
 Finally, we implement from scratch the Jellyfish and Fat-tree topologies and compare their scalability performance.
 
+Fat-tree            |  Jellyfish
+35
+:-------------------------:|:-------------------------:
+36
+<img width="490" alt="fat" src="https://user-images.githubusercontent.com/93355495/234046202-18d011f7-b848-4ec2-b6b6-b4193ad2d8e2.png"> | <img width="490" alt="jelly" src="https://user-images.githubusercontent.com/93355495/234046309-ee59d22a-ee97-467d-a5ba-06b2656240ed.png">
+37
+<br />
+
 ## Simulation and parformance evaluation
 We evaluate the complexity, and thus the level of efficiency, of the methods listed above for studying the connectivity of a graph by considering two possible metrics.
 
