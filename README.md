@@ -76,6 +76,6 @@ In the end we plot:
 <br />
 
 ## Team
->- [Nicola Grieco] (https://github.com/nicolagrieco00)
->- [Davide Vigneri] (https://github.com/VigneriDavide)
->- [Enrico Grimaldi] (https://github.com/Engrima18)
+>- [Nicola Grieco](https://github.com/nicolagrieco00)
+>- [Davide Vigneri](https://github.com/VigneriDavide)
+>- [Enrico Grimaldi](https://github.com/Engrima18)
