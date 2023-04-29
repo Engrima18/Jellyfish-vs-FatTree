@@ -1,13 +1,8 @@
 # Jellyfish-vs-FatTree
 #1 Homework for the course "Networking for Big Data and Data Centers" at La Sapienza University of Rome
+<br />
 
-## Content
->- `main.py`: python script that calls the functions and the classes from the modules below and saves the resulting plots in images (png);
->- `functions.py`: python script file which contains all the functions for building graphs, make simulations and evaluating performances;
->- `topologies.py`: python module where we implemented the classes for the used topologies;
->- `report.pdf`: pdf which contains a complete reports with our conclusions.
-
-## Used technologies:
+## Used technologies
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -15,6 +10,14 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+<br />
+
+## Content
+>- `main.py`: python script that calls the functions and the classes from the modules below and saves the resulting plots in images (png);
+>- `functions.py`: python script file which contains all the functions for building graphs, make simulations and evaluating performances;
+>- `topologies.py`: python module where we implemented the classes for the used topologies;
+>- `report.pdf`: pdf which contains a complete reports with our conclusions.
+<br />
 
 ## Brief description
 In the first part of the homework we define functions for creating the graph randomly by two techniques:
@@ -70,4 +73,9 @@ In the end we plot:
 >- the Job running cost $S$ as a function of $N$ for  $1 \leq N \leq 10000$ (normalize $S$ with respect to $S_baseline$).
 
 <img width="1184" alt="TimeAndCost" src="https://user-images.githubusercontent.com/93355495/234045317-4b00ed8d-5831-43b8-80c3-39582a2ad325.png">
+<br />
 
+## Team
+>- [Nicola Grieco] (https://github.com/nicolagrieco00)
+>- [Davide Vigneri] (https://github.com/VigneriDavide)
+>- [Enrico Grimaldi] (https://github.com/Engrima18)
